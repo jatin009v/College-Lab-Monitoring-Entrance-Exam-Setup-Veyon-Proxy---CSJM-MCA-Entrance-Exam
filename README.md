@@ -281,4 +281,4 @@ Take action if cheating detected
 👨‍💻 Author
 
 Jatin Gupta
-MCA Student | Full Stack Developer | Cybersecurity Enthusiast
+MCA Student | Full Stack Developer | Devops Enthusiast
